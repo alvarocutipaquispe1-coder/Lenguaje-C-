@@ -1,2 +1,0 @@
-# Lenguaje C++
-Mis ejercisios
