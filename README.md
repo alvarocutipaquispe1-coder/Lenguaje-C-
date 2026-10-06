@@ -1,2 +1,2 @@
-# pyton
+# Lenguaje C++
 Mis ejercisios
